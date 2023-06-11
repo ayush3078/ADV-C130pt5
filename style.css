@@ -1,0 +1,52 @@
+body {
+    background-size:cover ;
+}
+.heading {
+    font-size: large;
+    width: fit-content;
+    margin: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+.info {
+    font-size: medium;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+.disk_speed {
+    float: left;
+}
+.speed {
+    width: 220px;
+    height: 220px;
+}
+.button_speed {
+    font-size: medium;
+    margin: 20px;
+}
+
+
+
+.disk_volume {
+    float: right;
+}
+.volume {
+    width: 220px;
+    height: 220px;
+}
+.button_volume {
+    font-size: medium;
+    margin: 20px;
+}
+
+
+.button_play {
+    margin: 20px;
+    font-size: large;
+    
+}
+canvas {
+    border: white solid 5px;
+    border-radius: 0px;
+    margin-top: 60px;
+}
